@@ -1,3 +1,4 @@
+tianku 测试可用
 # P2P Media Loader
 
 [![](https://data.jsdelivr.com/v1/package/npm/p2p-media-loader-core/badge)](https://www.jsdelivr.com/package/npm/p2p-media-loader-core)
